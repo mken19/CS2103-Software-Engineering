@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tofu.task.TaskListTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-02-21T08:34:40" hostname="KEN" time="0.008">
+  <properties/>
+  <testcase name="find_taskList_success()" classname="tofu.task.TaskListTest" time="0.0"/>
+  <testcase name="toString_taskList_success()" classname="tofu.task.TaskListTest" time="0.005"/>
+  <testcase name="toStore_taskList_success()" classname="tofu.task.TaskListTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tofu.ParserTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-02-21T08:34:40" hostname="KEN" time="0.015">
+  <properties/>
+  <testcase name="parseToTask_wrongFormat_DukeExceptionThrown()" classname="tofu.ParserTest" time="0.009"/>
+  <testcase name="parseToCommand_correctFormat_success()" classname="tofu.ParserTest" time="0.002"/>
+  <testcase name="parseToCommand_wrongFormat_DukeExceptionThrown()" classname="tofu.ParserTest" time="0.001"/>
+  <testcase name="parseToTask_correctFormat_success()" classname="tofu.ParserTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
