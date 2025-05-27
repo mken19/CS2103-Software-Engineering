@@ -1,6 +1,6 @@
 # Tofu User Guide
 
-![Screenshot of a typical Tofu the Cat application in usage.](/Ui.png)
+![Screenshot of a typical Tofu the Cat application in usage.](/docs/Ui.png)
 
 Tofu the Cat is a desktop app for managing tasks, 
 optimized for use via a Command Line Interface (CLI) while still 
